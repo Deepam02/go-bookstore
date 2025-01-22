@@ -1,0 +1,10 @@
+# Ignore the .env file containing sensitive data
+.env
+
+# Ignore compiled Go binaries (for example, main.exe)
+cmd/main/*.exe
+
+
+# Ignore the Go module files
+go.mod
+go.sum
